@@ -1,0 +1,10 @@
+{
+  "name": "GOLDEN EMPIRE",
+  "short_name": "Gold Empire",
+  "description": "Luxury Casino and Life Simulator",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080909",
+  "theme_color": "#090909"
+}
